@@ -6,17 +6,17 @@ import org.springframework.web.bind.annotation.*;
 @RequestMapping("/api")
 public class HelloController {
     @GetMapping("/hello")
-    public String hello(){
+    public String hello() {
         return "Hello desde mi controlador SpringBoot";
     }
 
     @GetMapping("/saludo")
-    public String saludar(@RequestParam String nombre){
+    public String saludar(@RequestParam String nombre) {
         return "Hola " + nombre + " este es mi servidor de aplicacion";
     }
 
     @PostMapping("/mensaje")
-    public String recibirMensaje(@RequestBody String mensaje){
+    public String recibirMensaje(@RequestBody String mensaje) {
         return "Recibi tu mensaje" + mensaje;
     }
 }

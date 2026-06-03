@@ -4,16 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74f18d56-7678-4445-a462-27a629f32efd" name="Changes" comment="" />
+    <list default="true" id="74f18d56-7678-4445-a462-27a629f32efd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/resources/static/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/test/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/test/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplicationTests.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 0
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="3EdWMywmPe3a7v6VeJs3ixLuXHn" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,10 +32,12 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/brand/Downloads/MiPrimerServidorWeb",
+    "last_opened_file_path": "C:/Users/brand/OneDrive/Documentos/GitHub/Aplicaciones-Web/Practica1/MiPrimerServidorWeb",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
