@@ -5,20 +5,36 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="74f18d56-7678-4445-a462-27a629f32efd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MiPrimerServidorWeb/src/test/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/test/java/com/example/MiPrimerServidorWeb/MiPrimerServidorWebApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MiPrimerServidorWeb/src/main/resources/static/Asignacion1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;c4nn0nrtx&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/c4nn0nrtx/Aplicaciones-Web.git&quot;,
+    &quot;accountId&quot;: &quot;6f6cef67-a235-4b84-bf8a-45953f929d17&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 0
@@ -30,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -42,7 +59,10 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="SharedIndexes">
