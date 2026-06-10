@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Nébula Music - Registro</title>
-    <link rel="stylesheet" href="./styles/styles.css">
+    <link rel="stylesheet" href="NebulaMusic/src/main/resources/static/styles/styles.css">
 </head>
 <body>
 
@@ -14,30 +14,34 @@
         <h2>Crear Cuenta</h2>
 
         <form class="auth-form" method="post" action="/crear-cuenta" enctype="application/x-www-form-urlencoded">
+            <div>
+                <label for="nombre">Nombre Completo</label>
+                <input
+                        type="text"
+                        id="nombre"
+                        name="nombre"
+                        placeholder="Ej. Pedro Zamora"
+                        required
+                        minlength="10"
+                        maxlength="30"
 
-            <label for="nombre">Nombre Completo</label>
-            <input
-                    type="text"
-                    id="nombre"
-                    name="nombre"
-                    placeholder="Ej. Pedro Zamora"
-                    required
-                    minlength="10"
-                    maxlength="30"
-                    pattern="^[A-Za-z]+$"
-            >
+                >
+            </div>
 
-            <label for="correo">Correo Electrónico</label>
-            <input
-                    type="email"
-                    id="correo"
-                    name="correo"
-                    placeholder="tu@correo.com"
-                    required
-                    minlength="10"
-                    maxlength="50"
-                    pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
-            >
+            <div>
+                <label for="correo">Correo Electrónico</label>
+                <input
+                        type="email"
+                        id="correo"
+                        name="correo"
+                        placeholder="tu@correo.com"
+                        required
+                        minlength="10"
+                        maxlength="50"
+                        pattern="^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$"
+                >
+            </div>
+
 
             <label for="contrasena">Contraseña</label>
             <input
