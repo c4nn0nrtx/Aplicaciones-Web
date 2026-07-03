@@ -14,14 +14,11 @@ body{
 }
 
 .card{
-
     width:500px;
     background:white;
     border-radius:12px;
     padding:25px;
-
-    box-shadow:0 8px 20px rgba(0,0,0,.15);
-
+    box-shadow:0 5px 15px rgba(0,0,0,.2);
 }
 
 h2{
@@ -34,22 +31,18 @@ h2{
 }
 
 input{
-
     flex:1;
     padding:10px;
     border:1px solid #ccc;
-    border-radius:8px;
-
+    border-radius:6px;
 }
 
 button{
-
-    cursor:pointer;
+    padding:10px 15px;
     border:none;
-    border-radius:8px;
-    padding:10px 16px;
+    border-radius:6px;
+    cursor:pointer;
     color:white;
-
 }
 
 #createBtn{
@@ -65,29 +58,30 @@ button{
 }
 
 ul{
-    margin-top:20px;
     list-style:none;
+    margin-top:20px;
 }
 
 li{
-
-    background:#EBECF0;
-
     display:flex;
     justify-content:space-between;
     align-items:center;
-
-    padding:12px;
-    border-radius:8px;
+    background:#EBECF0;
     margin-bottom:10px;
-
+    padding:10px;
+    border-radius:6px;
 }
 
 .buttons{
     display:flex;
-    gap:8px;
+    gap:5px;
 }
 
 span{
-    word-break:break-word;
+    cursor:pointer;
+}
+
+.completed{
+    text-decoration:line-through;
+    color:gray;
 }
